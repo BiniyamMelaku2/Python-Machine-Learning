@@ -4,9 +4,9 @@
 
 ## 1. First Alpine Linux Containers
 
-*  https://training.play-with-docker.com/ops-s1-hello
+* https://training.play-with-docker.com/ops-s1-hello
 
-  _run a popular, free, lightweight container and explore the basics of how containers work, how the Docker Engine executes and isolates containers from each other_
+  _Run a popular, free, lightweight container and explore the basics of how containers work, how the Docker Engine executes and isolates containers from each other_
 
 ## 2. Doing More With Docker Images
 
