@@ -2,18 +2,18 @@
 
 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
 
-## First Alpine Linux Containers
+## 1. First Alpine Linux Containers
 
 *  "https://training.play-with-docker.com/ops-s1-hello"
 
-## Doing More With Docker Images
+## 2. Doing More With Docker Images
 
 * "https://training.play-with-docker.com/ops-s1-images"
 
-## Docker for Beginners - Linux
+## 3. Docker for Beginners - Linux
 
 * "https://training.play-with-docker.com/beginner-linux/"
 
-## Application Containerization and Microservice Orchestration
+## 4. Application Containerization and Microservice Orchestration
 
 * "https://training.play-with-docker.com/microservice-orchestration/"
